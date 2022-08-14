@@ -1,4 +1,4 @@
-# mediatr_dotnetCore
+# mediatR_dotnetCore
 
 ```bash
 dotnet new sln --name StudentApi
