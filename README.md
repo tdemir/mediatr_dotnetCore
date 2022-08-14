@@ -1,0 +1,1 @@
+# mediatr_dotnetCore
